@@ -1,2 +1,4 @@
 # primeiroano2023
 Colégio Estadual Cívico Militar Presidente Vargas - Bela Vista do Paraíso
+
+## Meu nome é Ketlyn Wayra, estudo no colégio CCM no ensino médio 1 ano. Vou criar um site no 3 trimestre na matéria de pensamento computacional. Moro em Santa Margarida bvp, sou uma pessoa amigável, gosto de fazer amizades, mas se a pessoa for falsa comigo eu fico longe e só convero o necessário, sou uma pessoa sem paciência as vezes, ajudo as pessoas quando precisa, sou carinhosa e bravinha. Tenho 4 melhores amigas, Clara, Ana, Eloize e Brenda da escola, passo o tempo todo com elas e vou embora também, nós marca de sair final de semana e quando tem tempo livre pra comer alguma coisa, andar e etc. Gosto de passar o dia de domingo de churrasco com a família se divertimos muito tiramos foto, musicas, risadas e muito mais. Quero que o ano novo chegue logo pra vim um ano melhor com coisas boas pra 2024 e expectativas, passar de ano na escola também e se informar na escola.  
