@@ -1,8 +1,8 @@
 body {
-     background-color:antiquewhite
+     background-color:antiquewhite;
 }
 
-  h1{  
+h1{  
   color: purple;
   font-size:50px;
    text-align: center;
@@ -11,16 +11,16 @@ body {
     p{
     color:fuchsia;
     font-size:35px;
-    text-algn:justify;
+    text-align:justify;
     }
 
-. logo { 
+.logo { 
      width: 200px;
      height: 200px;
      margin: 2px; /*insere um esçapamento extremo ao elemento,a 
      padding:2px; /*define uma distância interna entre um elemento e sua borda*/
      border: 0.2rem solid #000000;
-     border:-radius: 20px
+     border:-radius: 20px;
 }
 
 .fotos {
@@ -29,4 +29,4 @@ body {
      margin: 10px;
      padding: 3px;
      border:0.5rem solid rgb(153, 63, 155);
-     border:- radius:24px
+     border-radius: 24px;
