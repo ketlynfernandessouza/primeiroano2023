@@ -15,7 +15,7 @@ h1{
    text-align: center;
  }
 
-    p{
+p{
     color:fuchsia;
     font-size:35px;
     text-align:justify;
@@ -37,3 +37,4 @@ h1{
      padding: 3px;
      border:0.5rem solid rgb(153, 63, 155);
      border-radius: 24px;
+}
