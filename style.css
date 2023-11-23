@@ -4,7 +4,7 @@ body {
  }
 
  header { 
-     background-color:rgb(215, 250, 250);
+     background-color:rgb(250, 215, 247);
      border-bottom: 2px solid rgb(212, 58, 86);
 }
 
@@ -16,7 +16,7 @@ h1{
  }
 
 p{
-    color:fuchsia(0, 0, 0);
+    color:fuchsia);
     font-size:35px;
     text-align:justify;
     }
