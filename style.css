@@ -43,3 +43,7 @@ p{
      color:rgb(130, 36, 192);
      list-style: none;
 }
+.item-lista{
+    display: inline-block;
+    justify-content: spare-around;
+}
