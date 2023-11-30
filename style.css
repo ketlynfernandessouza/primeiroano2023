@@ -1,6 +1,6 @@
 body {
-     font-family: sans-serif
-     background-image: linear-gradient (##FFEBCD(9255,235,205)
+     font-family: sans-serif;
+     background-image: linear-gradient (RED, BLUE));
 
  }
 
