@@ -11,7 +11,7 @@ body {
  }
 
  .cabecalho {
-    display-content: flex;
+    display: flex;
     justify-content: space-around;
 
 }
